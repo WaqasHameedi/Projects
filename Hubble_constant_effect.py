@@ -153,4 +153,5 @@ plt.grid(axis='y', linestyle='--', alpha=0.6)
 plt.tight_layout()
 
 # Show the plot
+
 plt.show()
